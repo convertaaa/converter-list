@@ -1,3 +1,3 @@
 # converter-list
 
-Register downloadable github repositories for downloadable converters
+Register converter project as downloadable github repositories for the converta ui converter manager
